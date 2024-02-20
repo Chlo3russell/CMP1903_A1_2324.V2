@@ -23,7 +23,6 @@ namespace CMP1903_A1_2324
             Testing test1 = new Testing();
             test1.DieTesting();
             test1.GameTesting();
-
         }
     }
 }
